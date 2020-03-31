@@ -2,7 +2,7 @@ Written using python 3.8, but should work with python >= 3.6.
 
 
 Recommend using venv to run:
-
+```bash
 python3.8 -m venv env
 
 source ./env/bin/activate
@@ -12,7 +12,7 @@ pip install -r requirements.txt
 cd src
 
 python demonstration.py
-
+```
 
 Files:
 
